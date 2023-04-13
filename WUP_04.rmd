@@ -52,7 +52,8 @@ This box shows that both High school and and Lt High school participants would l
 favstats(WORDSUM~DEGREE,data=mydata)
 ```
 
-
+The data shows that the average for the Graduate degree is 10.10 being the highest, then Junior College being 9.92 as the second highest, then Bachelor Degree being 9.20 being the third, the fourth being High School with the average of 8.28 and 
+Lt High School being the lowest with an average of 7.75. The Q1 value for graduates is a 10 while the high school and lt high school are values for Q3 are 9 and 8.25 making them lower. 
 
 ## Inferential Results
 
