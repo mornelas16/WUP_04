@@ -64,7 +64,7 @@ model1 <- aov(WORDSUM~DEGREE,data=mydata)
 summary.aov(model1)
 ```
 
-
+The probability of this data not having a difference is 0.000236%. This tells us that there is a difference but we have to run multiple comparison tests to find out the differences and figure out exactly what categories differ with each other. 
 
 # Discussion and Conclusion
 
