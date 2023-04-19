@@ -72,7 +72,7 @@ par(mar=c(3,15.7,2,2))
 plot(a,las=2)
 ```
 
-
+The graph above shows that when running the TukeyHSD test, both LT High School and Graduate as well as High School and Graduate have statistical differences at the 95% level. High School and Graduate are statistically different. LT High School and Graduate are also statistically different at the 95% level. 
 
 
 # Discussion and Conclusion
